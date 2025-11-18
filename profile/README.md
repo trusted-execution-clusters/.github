@@ -1,8 +1,10 @@
-## Welcome to Confidential Clusters
+## Welcome to Trusted Execution Clusters
 
-**Confidential Clusters** is a project focused on enabling confidential computing for the entire Kubernetes clusters using Image Based Linux operating systems with [Bootable Containers](https://containers.github.io/bootable/) images. Our mission is to advance the adoption and integration of confidential computing technologies into cloud-native environments.
+**Trusted Execution Clusters** is a project focused on running Kubernetes clusters entirely inside Trusted Execution Environments using Confidential Computing technologies and Image Based Linux operating systems with [Bootable Containers](https://containers.github.io/bootable/) images.
+Our mission is to advance the adoption and integration of confidential computing technologies into cloud-native environments.
 
-We aim to build an ecosystem that supports the deployment and management of **Confidential Kubernetes Clusters** using open source tools and standards. This includes enabling components like the Kubernetes control plane, system workloads, and user applications to run with strong hardware-based confidentiality guarantees.
+We aim to build an ecosystem that supports the deployment and management of **Trusted Execution Kubernetes Clusters** using open source tools and standards.
+This includes enabling components like the Kubernetes control plane, system workloads, and user applications to run with strong hardware-based confidentiality guarantees.
 
 Our focus areas include:
 
